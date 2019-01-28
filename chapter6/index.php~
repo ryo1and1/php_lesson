@@ -1,0 +1,4 @@
+<?php
+define("SITE_URL" , "https://learning.courage.engineer");
+echo SITE_URL;
+?>
