@@ -1,6 +1,6 @@
 <?php
 // ŽžŠÔ‘Ñ(’© or ’‹ or –é)
-$time_zone = "morning";
+$time_zone = "evening";
 //ŽžŠÔ‘Ñ‚²‚Æ‚Éˆ¥ŽA‚ð•Ï‚¦‚Ä•\Ž¦‚·‚é
 switch ($time_zone){
 case("morning"):
