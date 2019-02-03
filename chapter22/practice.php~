@@ -1,0 +1,16 @@
+<?php
+header('Content-Type:text/html;charset=UTF-8');
+?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>Send usernmae</title>
+</head>
+<body>
+	<form action="test.php" method="GET">
+		<input type="text" name="name" placeholder="write name">
+		<input type="submit" value="send">
+	</form>
+</body>
+</html>
